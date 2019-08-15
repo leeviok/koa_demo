@@ -5,6 +5,8 @@ const catchError = require('./middleware/exception')
 
 const app = new Koa()
 
+require('./app/models/user')
+
 app.use(parser())
 app.use(catchError)
 
