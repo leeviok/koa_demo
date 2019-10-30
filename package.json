@@ -17,6 +17,6 @@
     "lin-mizar": "^0.2.0-beta.2",
     "mysql2": "^1.6.5",
     "require-directory": "^2.1.1",
-    "sequelize": "^5.14.0"
+    "sequelize": "^5.15.1"
   }
 }
